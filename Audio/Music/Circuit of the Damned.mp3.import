@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1tkbf4yrgdpt"
+path="res://.godot/imported/Circuit of the Damned.mp3-ed2a2697ee95407a7ac181620de069ce.mp3str"
+
+[deps]
+
+source_file="res://ProjectFrankenstein/Audio/Music/Circuit of the Damned.mp3"
+dest_files=["res://.godot/imported/Circuit of the Damned.mp3-ed2a2697ee95407a7ac181620de069ce.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
