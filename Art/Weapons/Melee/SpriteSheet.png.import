@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://canbnkxvudej2"
-path="res://.godot/imported/Shoot_sight.png-2df8e608f503098e0a688237f062ff92.ctex"
+uid="uid://bgek7lrwgg6"
+path="res://.godot/imported/SpriteSheet.png-add5d35177a2629a75c1ff18c15062aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ProjectFrankenstein/Art/Mouse/Shoot_sight.png"
-dest_files=["res://.godot/imported/Shoot_sight.png-2df8e608f503098e0a688237f062ff92.ctex"]
+source_file="res://ProjectFrankenstein/Art/Weapons/Melee/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-add5d35177a2629a75c1ff18c15062aa.ctex"]
 
 [params]
 

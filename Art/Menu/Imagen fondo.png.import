@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://canbnkxvudej2"
-path="res://.godot/imported/Shoot_sight.png-2df8e608f503098e0a688237f062ff92.ctex"
+uid="uid://bhq4mfk3luea5"
+path="res://.godot/imported/Imagen fondo.png-4f1a1c43579dbcfe9d2e2b3334c71d4b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ProjectFrankenstein/Art/Mouse/Shoot_sight.png"
-dest_files=["res://.godot/imported/Shoot_sight.png-2df8e608f503098e0a688237f062ff92.ctex"]
+source_file="res://ProjectFrankenstein/Art/Menu/Imagen fondo.png"
+dest_files=["res://.godot/imported/Imagen fondo.png-4f1a1c43579dbcfe9d2e2b3334c71d4b.ctex"]
 
 [params]
 

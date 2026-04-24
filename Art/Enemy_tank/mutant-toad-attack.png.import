@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://canbnkxvudej2"
-path="res://.godot/imported/Shoot_sight.png-2df8e608f503098e0a688237f062ff92.ctex"
+uid="uid://dnjgb3eibnbc2"
+path="res://.godot/imported/mutant-toad-attack.png-a9cb8f94542ee01070b43e501d2df2bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ProjectFrankenstein/Art/Mouse/Shoot_sight.png"
-dest_files=["res://.godot/imported/Shoot_sight.png-2df8e608f503098e0a688237f062ff92.ctex"]
+source_file="res://ProjectFrankenstein/Art/Enemy_tank/mutant-toad-attack.png"
+dest_files=["res://.godot/imported/mutant-toad-attack.png-a9cb8f94542ee01070b43e501d2df2bb.ctex"]
 
 [params]
 
